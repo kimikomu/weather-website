@@ -1,0 +1,1 @@
+# Practicing AJAX with OpenWeatherMap
